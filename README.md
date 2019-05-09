@@ -8,13 +8,13 @@
   <hr>
 ﻿#WordPress背景自定义css
 <p> 
-<br> body {<p> 
-<br> background-image:<p> 
- <br> url();<p> 
-    <br> background-position: center center;<p> 
-    <br> background-size: cover;<p> 
-    <br> background-repeat: no-repeat;<p> 
-<br> background-attachment: fixed;<p> 
-<br> }<p> 
-<br> 
+body {<p> 
+background-image:<p> 
+url();<p> 
+background-position: center center;<p> 
+background-size: cover;<p> 
+background-repeat: no-repeat;<p> 
+background-attachment: fixed;<p> 
+}<p> 
+ 
 <hr>
