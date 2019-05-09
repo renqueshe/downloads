@@ -8,7 +8,7 @@
   <hr>
 <center><h1>#WordPress背景自定义css</h1></center>
 <p> 
-body {<p> 
+{<p> 
 background-image:<p> 
 url();<p> 
 background-position: center center;<p> 
@@ -16,5 +16,4 @@ background-size: cover;<p>
 background-repeat: no-repeat;<p> 
 background-attachment: fixed;<p> 
 }<p> 
- 
 <hr>
