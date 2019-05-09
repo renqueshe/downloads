@@ -5,7 +5,7 @@
 有的博客分享的软件会链接到这。
   </center>
   
-  
+  <hr>
 ﻿#WordPress背景自定义css
 <p> 
 <br> body {<p> 
