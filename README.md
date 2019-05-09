@@ -8,12 +8,12 @@
   
 ﻿#WordPress背景自定义css
 <p> 
-</p> body {<p> 
-</p> background-image:<p> 
- </p> url();<p> 
-    </p> background-position: center center;<p> 
-    </p> background-size: cover;<p> 
-    </p> background-repeat: no-repeat;<p> 
-</p> background-attachment: fixed;<p> 
-</p> }<p> 
-</p> 
+<br> body {<p> 
+<br> background-image:<p> 
+ <br> url();<p> 
+    <br> background-position: center center;<p> 
+    <br> background-size: cover;<p> 
+    <br> background-repeat: no-repeat;<p> 
+<br> background-attachment: fixed;<p> 
+<br> }<p> 
+<br> 
