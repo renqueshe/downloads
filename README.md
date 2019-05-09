@@ -7,12 +7,13 @@
   
   
 ﻿#WordPress背景自定义css
-
-身体 {
-背景图片：
- url（）;
-    背景位置：中心 中心 ;
-    背景尺寸：封面 ;
-    background-repeat： no-repeat ;
-背景附件：固定 ;
+<p> 
+body {
+background-image:
+ url();
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+background-attachment: fixed;
 }
+</p> 
